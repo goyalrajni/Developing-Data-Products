@@ -21,7 +21,7 @@ My Shiny application allows the user to choose their weight, along with their he
 
 ##Viewing and Running the Shiny App
 
-The shiny application I developed has been published to the Shiny server <a href="http://rajnigoyal.shinyapps.io/ShinyApp "> here </a>
+The shiny application I developed has been published to the Shiny server <a href="http://rajnigoyal.shinyapps.io/ShinyApp ">HERE </a>
 
 Alternatively, to reproduce this application locally you will need to install all of the relevant packages (see the Getting Started with Shiny Apps documantation for details). Next, you can run the ui.R and server.R files located in the same repository as this document to run the application locally.
 
